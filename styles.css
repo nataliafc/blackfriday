@@ -95,5 +95,5 @@ body {
     body img {width: 320px; }
     .section-container {width:auto;}
     .forms {display: flex; flex-wrap: wrap;}
-    .footer {height: 30px; padding-top: 1%; }
+    .footer {height: 30px; padding-top: 1%; align-items: flex-end fixed; position: absolute bottom 0;}}
 }
